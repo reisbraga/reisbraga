@@ -73,7 +73,88 @@ cd dillinger
     bloco é só endentar
     2 tabs p ser mais exata
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
+Instrua o GitHub a ignorar a formatação Markdown (ou fazer escape dela) usando \ antes do caractere Markdown.
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+Este é um {c:red}texto vermelho.{/c}
+
+<kbd>{c:yellow}Essa é uma frase com fundo escuro e texto amarelo{/c}</kbd>
+
+{c:green}[fa=check-circle /]{/c} Meu Ícone Verde
+{c:red}[fa=times-circle /]{/c} Meu Ícone Vermelho
+
+I18N <abbr>I18N</abbr>
+
+Citation <cite>Citation</cite>
+
+Ctrl + S <kbd>Ctrl + S</kbd>
+
+TextSuperscripted <sup>Superscripted</sup>
+
+TextSubscripted <sub>Subscripted</sub>
+
+Underlined <u>Underlined</u>
+
+Highlighted <mark>Highlighted</mark>
+
+20:14 <time>20:14</time>
+
+x = y + 2 <var>x = y + 2</var>
+
+
+Esse é um trecho de texto onde tem uma nota de rodapé aqui [^1] e outra aqui [^2]
+[^1]: Essa é a nota de Rodapé 1
+[^2]: Essa é a nota de Rodapé 2
+
+
+<font color=\"red\">Texto com cor vermelha</font>
+
+Na barba dele, moravam três <span style="color:red">cardeais</span>.
+Na barba dele moravam três cardeais.
+
+Estou <span style="font-family:Papyrus; font-size:4em;">APAIXONADO!</span>
+
+- texto em vermelho
++ texto em verde
+! texto em laranja
+# texto em cinza
+@@ texto em roxo (e negrito)@@
+
+```py
+"texto infinito...
+e aqui novamente".
+```
+
+```arm
+du_texte
+mais_texto
+```
+
+- texto em vermelho
++ texto em verde
+! texto em laranja
+# texto em cinza
+@@ texto em roxo (e negrito)@@
+
+<span style="color:red">Este texto está vermelho</span>
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
