@@ -181,6 +181,26 @@ mais_texto
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
 <!---
+mkdir reisbraga && cd reisbraga
+echo TBD > README.md
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username={reisbraga}&theme={tokyonight}&layout=compact" />
+</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={reisbraga}&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+--->
+
+
+<p align="left"> 
+  <img alt="TopLangs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisbraga&theme=transparent&layout=compact"/>
+  <img alt="githubStats" height="250px" src="https://github-readme-stats.vercel.app/api?username=reisbraga&theme=transparent&show_icons=ture"/>
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+
+<!---
 reisbraga/reisbraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
