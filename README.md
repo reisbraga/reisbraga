@@ -1,4 +1,4 @@
-<section class="titulo"> <h1  align="center"> r e i s b r a g a</h1></section>
+<section class="titulo"> <h1  align="center"><i> r e i s b r a g a</i></h1></section>
 
 
 > [!NOTE]
