@@ -3,12 +3,7 @@
 
 > [!NOTE]
 > <b><i>Repositórios:</i></b>
-> * <b>[CEFET.py](github.com/reisbraga/CEFET.py)</b>
->   * Material criado nas aulas de LP1, LLP1, LP2, LLP2.
-> * <b>[CEFET.cpp](github.com/reisbraga/CEFET.cpp)</b>
->   * Material criado nas aulas de Est. Dad. e Lab. Est. Dad.
-> * <b>[CEFET-Web](github.com/reisbraga/CEFET-Web)</b>
->   * Material criado na aula de Aplicações Web.  
+> [CRUD_Flask](https://github.com/reisbraga/CRUD_Flask)
 
 
 
